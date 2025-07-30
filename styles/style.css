@@ -1,0 +1,21 @@
+a{
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+ul{
+ background-color: bisque;
+ width: 20%;
+}
+
+ol{
+    background-color: #f9f9f9;
+    width: 50%;
+}
+
+li{
+    color: #333;
+    font-size: large;
+    padding: 5px;
+}
